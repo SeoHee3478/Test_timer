@@ -1,0 +1,48 @@
+   body {
+       background-color: #C0CCF4;
+   }
+
+   .container{
+        width: 440px;
+        margin: 72px auto;
+        text-align: center;
+        width: 400px;
+        height: 360px;
+
+   }
+
+   .timer {
+        background-color: #5572BB;
+        margin-top: 60px;
+ 
+        border-radius: 16px;
+        padding-top:48px;
+   }
+
+   .title-sm{
+        color: white;
+        font-size: 24px;
+        font-weight: 700;
+   }
+
+   .clock {
+        margin-top: 57px;
+        padding-bottom: 128px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+        color: white;
+   }
+
+   .box-title{
+       font-size:12px;
+       color: #A5A6F6;
+   }
+
+   .box{
+       font-size: 40px;
+       border: 1px solid #354971;
+       border-radius: 4px;
+       padding: 16px 14px 16px 13px;
+   }
